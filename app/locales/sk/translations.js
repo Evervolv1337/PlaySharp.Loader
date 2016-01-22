@@ -12,7 +12,7 @@ const result = {
       "libraries": "Knižnice",
       "utilities": "Utility"
     },
-    "search_phrase": "Hľadať zostavy,
+    "search_phrase": "Hľadať zostavy",
     "sort_by": {
       "last_update": "Posledná aktualizácia",
       "name": "Meno",
